@@ -1,0 +1,15 @@
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\obj\Debug\net8.0\ECOM_Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\obj\Debug\net8.0\ECOM_Product.AssemblyInfoInputs.cache
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\obj\Debug\net8.0\ECOM_Product.AssemblyInfo.cs
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\obj\Debug\net8.0\ECOM_Product.csproj.CoreCompileInputs.cache
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\obj\Debug\net8.0\ECOM_Product.sourcelink.json
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\bin\Debug\net8.0\ECOM_Product.exe
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\bin\Debug\net8.0\ECOM_Product.deps.json
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\bin\Debug\net8.0\ECOM_Product.runtimeconfig.json
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\bin\Debug\net8.0\ECOM_Product.dll
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\bin\Debug\net8.0\ECOM_Product.pdb
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\obj\Debug\net8.0\ECOM_Product.dll
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\obj\Debug\net8.0\refint\ECOM_Product.dll
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\obj\Debug\net8.0\ECOM_Product.pdb
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\obj\Debug\net8.0\ECOM_Product.genruntimeconfig.cache
+C:\Users\YHENGMING\source\repos\ECOM_Product\ECOM_Product\obj\Debug\net8.0\ref\ECOM_Product.dll

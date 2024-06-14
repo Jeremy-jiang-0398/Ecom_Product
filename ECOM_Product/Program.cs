@@ -1,9 +1,9 @@
 ﻿using ECOM_Product;
 
-class Program
+internal class Program
 {
 
-    public static void main(String[] args)
+    public static void Main(String[] args)
     {
         var productOne = new Product(1, "Utensils", 3.45m, 50);
 
